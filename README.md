@@ -2,8 +2,9 @@
 Projeto Clone Netflix 
 Recriando a página da Netflix 
 Técnicas utilizadas:
+
 CSS3 
-•	Containers e variáveis, 
+<p>•	Containers e variáveis, </p>
 •	Posicionamento de elementos com Flexbox 
 •	Responsividade
 
